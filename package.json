@@ -1,0 +1,14 @@
+{
+  "name": "ilegra",
+  "version": "1.0.0",
+  "description": "Script created to complete the inverview Question for Ilegra company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gwen Monteiro",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.8.0"
+  }
+}
