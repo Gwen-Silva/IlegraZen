@@ -6,9 +6,10 @@ module.exports = defineConfig({
   viewportHeight: 1080,
 
   e2e: {
+    baseUrl: 'https://blogdoagi.com.br/',
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    specPattern: 'cypress/integration/Testes/*.js'
+    specPattern: 'cypress/components/*.js'
   },
 });
