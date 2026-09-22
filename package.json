@@ -1,11 +1,10 @@
 {
   "name": "ilegra",
   "version": "1.0.0",
-  "description": "Script created to complete the inverview Question for Ilegra company",
-  "main": "index.js",
+  "description": "Cypress search-interface exercise for Blog do Agi",
   "scripts": {
     "cypress:open": "cypress open",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "cypress run"
   },
   "author": "Gwen Monteiro",
   "license": "ISC",
